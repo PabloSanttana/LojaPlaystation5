@@ -12,7 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Android Studio](https://developer.android.com/studio)
 
 
-###Layout
+### Layout
 
 ![Layout](https://github.com/PabloSanttana/LojaPlaystation5/blob/master/layoutPlay.png)
 
